@@ -11,35 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Economics (in progress), University of Southern California
+* M.S. in Economics, The Chinese University of Hong Kong, Shenzhen
+* M.S. in Econometrics and Quantitative Economics, University of Wisconsin–Madison
+* B.S. in Economics, Huazhong University of Science and Technology
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Prior roles in economic research and data analysis in the financial sector (details and dates on PDF CV).
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Econometrics and quantitative methods  
+* Statistical computing: Stata, R  
 
 Publications
 ======
@@ -61,4 +45,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* *(Add committees, refereeing, workshops, and mentoring here.)*
