@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Hang Liu"
 title_separator          : "-"
 name                     : &name "Hang Liu"
-description              : &description "Hang Liu — economics research (University of Southern California)."
+description              : &description "Hang Liu — Ph.D. student in Economics at USC; applied econometrics, housing, urban mobility, and finance."
 url                      : https://hang-lliu.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Hang Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. student in Economics at USC. Research interests include applied econometrics and empirical macroeconomics."
+  bio              : "Ph.D. student in Economics at USC. I work on applied micro and econometrics—housing and market power, urban mobility, and policy-relevant applications in health and finance."
   location         : "Los Angeles, CA"
   employer         : "University of Southern California"
   uri              : # URL
-  email            : # add your USC or preferred contact email
+  email            : "hangliu9506@gmail.com"
 
   # Academic websites
   academia         : # URL
@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : # URL
   semantic         : # URL
-  ssrn             : # URL
+  ssrn             : "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6662339"
   pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
@@ -87,7 +87,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Working Papers & Research'    
   conferences:
     title: 'Conference Papers'
 
