@@ -28,6 +28,6 @@ I am a Ph.D. student in Economics at the [University of Southern California](htt
 ## Links
 
 - [Google Scholar](https://scholar.google.com/citations?user=aM3vl4oAAAAJ)
-- [GitHub](https://github.com/hang-liu)
+- [GitHub](https://github.com/Hang-lliu)
 - [SSRN (Do Data Create Rents)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6662339)
 - [LinkedIn](https://www.linkedin.com/in/hang-liu-6037a8220)
