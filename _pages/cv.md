@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/files/Hang Liu-resume.pdf" width="100%" height="800px" style="border: none;"></iframe>
+You can download my CV here: [Hang Liu - Resume](/files/Hang%20Liu-resume.pdf)
