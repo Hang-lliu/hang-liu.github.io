@@ -18,10 +18,8 @@ I am a Ph.D. student in Economics at the [University of Southern California](htt
 
 ## Working Papers
 
-- **The Impact of Algorithmic Pricing and Fiscal Transfers on Prices: Evidence from the Rental Market** , joint with with Rodney Ramcharan; [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6662339)).
-- **Effects of Electric Vehicle Adoption on Urban Mobility** (2026, Working paper under review)  
-  ZIP-code panel analysis of BEV adoption and traffic congestion in California.  
-  *Co-authors: Ruoyu Chen and Mingzhi Zhou*
+- **The Impact of Algorithmic Pricing and Fiscal Transfers on Prices: Evidence from the Rental Market** (joint with with Rodney Ramcharan; [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6662339)).
+- **Effects of Electric Vehicle Adoption on Urban Mobility** (joint with with Ruoyu Chen and Mingzhi Zhou; [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6662339)).
 - **Exploring the Association Between Social Determinants of Health and Telehealth Utilization for ADHD Among Adults Using Machine Learning** (2025, Working paper under review)  
   Cross-sectional study using ML to predict telehealth use for ADHD treatment.
 
