@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Economics at the [University of Southern California](https://dornsife.usc.edu/econ/) (expected May 2027). My research uses microdata and modern econometric methods applied to housing and industrial organization, urban mobility, financial institutions, and health policy.
+I am a Ph.D. student in Economics at the [University of Southern California](https://dornsife.usc.edu/econ/) (expected May 2027). My research uses microdata and modern econometric methods to study macroeconomic issues related to financial institutions and housing.
 
 ## Education
 
