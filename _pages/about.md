@@ -13,9 +13,7 @@ I am a Ph.D. student in Economics at the [University of Southern California](htt
 
 - **Ph.D., Economics** — University of Southern California (in progress)
 - **M.S., Economics** — The Chinese University of Hong Kong, Shenzhen  
-  Honors: Academic Scholarships (2023); Dean’s List (2023); Presidential Award for Outstanding Graduate Students
-- **M.S., Econometrics and Quantitative Economics** — University of Wisconsin–Madison  
-  Honors: Academic scholarship (2021); Phi Kappa Phi (2022, top 10%)
+- **M.S., Economics** — University of Wisconsin–Madison  
 - **B.S., Economics** — Huazhong University of Science and Technology
 
 ## Research in brief
