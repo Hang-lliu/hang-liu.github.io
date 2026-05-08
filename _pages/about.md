@@ -23,9 +23,25 @@ I am a Ph.D. student in Economics at the [University of Southern California](htt
 - **Health and machine learning** — Cross-sectional analysis of social determinants of health and telehealth use for ADHD with ML and traditional econometric tools.
 - **Monetary policy and bank risk** — PSM–DID evidence on bank risk-taking and quantitative easing (M.S. research at Wisconsin with Jeffrey Smith, Matthew Wiswall, and Charles Engel).
 
+## Publications
+
+- **Do Data Create Rents? Evidence from the U.S. Rental Market** (2025, SSRN working paper)  
+  Quasi-experimental evidence on platform dominance and rental markups. [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6662339).  
+  *Co-author: Rodney Ramcharan (USC)*
+
+- **Effects of Electric Vehicle Adoption on Urban Mobility** (2026, Working paper under review)  
+  ZIP-code panel analysis of BEV adoption and traffic congestion in California.  
+  *Co-authors: Ruoyu Chen and Mingzhi Zhou*
+
+- **Exploring the Association Between Social Determinants of Health and Telehealth Utilization for ADHD Among Adults Using Machine Learning** (2025, Working paper under review)  
+  Cross-sectional study using ML to predict telehealth use for ADHD treatment.
+
+- **Unintended Consequences of Quantitative Easing: Banks Take More Risks** (2021, M.S. research paper, University of Wisconsin–Madison)  
+  PSM–DID analysis of QE1 effects on bank risk-taking.  
+  *Supervisors: Jeffrey Smith, Matthew Wiswall, and Charles Engel*
+
 ## Links
 
-- [Google Scholar](https://scholar.google.com/citations?user=aM3vl4oAAAAJ)
 - [GitHub](https://github.com/Hang-lliu)
 - [SSRN (Do Data Create Rents)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6662339)
 - [LinkedIn](https://www.linkedin.com/in/hang-liu-6037a8220)
