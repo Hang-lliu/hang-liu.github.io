@@ -16,7 +16,7 @@ I am a Ph.D. student in Economics at the [University of Southern California](htt
 - **M.S., Economics** — University of Wisconsin–Madison  
 - **B.S., Economics** — Huazhong University of Science and Technology
 
-## Wroking Papers
+## Working Papers
 
 - **Housing, data platforms, and pricing** — Quasi-experimental evidence on how data-sharing platforms and major shocks affect market power and rents in U.S. rental markets (work with Rodney Ramcharan; [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6662339)).
 - **Urban mobility** — ZIP-level panel evidence on how electric-vehicle adoption relates to traffic speed, travel demand, and transit (work with Ruoyu Chen and Mingzhi Zhou).
@@ -39,6 +39,11 @@ I am a Ph.D. student in Economics at the [University of Southern California](htt
 - **Unintended Consequences of Quantitative Easing: Banks Take More Risks** (2021, M.S. research paper, University of Wisconsin–Madison)  
   PSM–DID analysis of QE1 effects on bank risk-taking.  
   *Supervisors: Jeffrey Smith, Matthew Wiswall, and Charles Engel*
+
+## Teaching
+
+- **Teaching Assistant — The Financial Market** (Sep. 2024 – Jun. 2025)  
+  Upper-level undergraduate finance course at USC covering asset pricing, bonds, options, and financial institutions. Responsibilities: lecture support, exam review sessions, one-on-one student tutoring, and collaborative grading.
 
 ## Links
 
