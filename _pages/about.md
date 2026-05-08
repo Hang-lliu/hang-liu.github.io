@@ -16,14 +16,14 @@ I am a Ph.D. student in Economics at the [University of Southern California](htt
 - **M.S., Economics** — University of Wisconsin–Madison  
 - **B.S., Economics** — Huazhong University of Science and Technology
 
-## Research in brief
+## Wroking Papers
 
 - **Housing, data platforms, and pricing** — Quasi-experimental evidence on how data-sharing platforms and major shocks affect market power and rents in U.S. rental markets (work with Rodney Ramcharan; [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6662339)).
 - **Urban mobility** — ZIP-level panel evidence on how electric-vehicle adoption relates to traffic speed, travel demand, and transit (work with Ruoyu Chen and Mingzhi Zhou).
 - **Health and machine learning** — Cross-sectional analysis of social determinants of health and telehealth use for ADHD with ML and traditional econometric tools.
 - **Monetary policy and bank risk** — PSM–DID evidence on bank risk-taking and quantitative easing (M.S. research at Wisconsin with Jeffrey Smith, Matthew Wiswall, and Charles Engel).
 
-## Publications
+## Work in Progress
 
 - **Do Data Create Rents? Evidence from the U.S. Rental Market** (2025, SSRN working paper)  
   Quasi-experimental evidence on platform dominance and rental markups. [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6662339).  
